@@ -1,0 +1,7 @@
+{
+  "name": "Sms bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
